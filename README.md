@@ -11,4 +11,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jonaheln/azure-network-protocols)
 
 <h2> Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/JonahelNozil
+[linkedin]: https://linkedin.com/in/JonahelN
